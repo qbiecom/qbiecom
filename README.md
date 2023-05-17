@@ -1,13 +1,18 @@
 👋 Hi, I’m Matt
 
-Languages I can program in (some better than others...)
+## Programming Languages:
 - C#
-- PHP 
-
-Languages I'm learning!
+- Javascript
+- PHP
 - Python 🐍
 
-Thinks I'm interested in
+Some I know better than others, but I love learning and improving on each one!
+
+## Platforms & Tools:
+- WordPress
+- ServiceNow
+
+## Interests:
 - Tech 👨‍💻
 - F1 🏎
 - Star Trek 🖖
@@ -15,6 +20,6 @@ Thinks I'm interested in
 - Photography 📸
 - Podcasting 🎙
 
-Websites:
-- Personal - www.qbie.com
-- Podcast - www.offlinegamer.co.uk
+## My Websites:
+- Personal - [www.qbie.com](http://www.qbie.com)
+- Podcast - [www.offlinegamer.co.uk](http://www.offlinegamer.co.uk)
